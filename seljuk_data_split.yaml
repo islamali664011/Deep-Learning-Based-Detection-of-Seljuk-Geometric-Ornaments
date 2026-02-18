@@ -1,0 +1,6 @@
+names:
+- seljuk_shape
+nc: 1
+test: /content/SeljukDetection/test/images
+train: /content/SeljukDetection/train/images
+val: /content/SeljukDetection/val/images
